@@ -72,7 +72,7 @@ class FmpStatistic:
                 res2 = season_formatted[self.team2][self.team1]
                 # res2 = res2[::-1]
 
-                # {'draws': '23.71', 'first_team_wins': '17.14', 'second_team_wins': '59.15'}
+                # {'draws': '23.71', 'first_team_wins': '17.14', 'second_team_wins': '59.15'} // MC - SAUTH
 
                 # Home match of the first ream
                 # self.score_parser(res1, seasons_weight, 1)
